@@ -11,7 +11,8 @@ I am a bachelor of Computer Science graduate majoring in Cybersecurity at the Un
 
 
 📽 **Projects**
-- **Adventure Architect**  |  Feb 2024     
+- **Adventure Architect**  |  Feb 2024
+  
   Developed a custom conversational AI system utilizing ChatGPT, engineered to provide tailored recommendations based on user preferences.
 Refined the chatbot’s algorithm, conducted testing to enhance the chatbot’s accuracy and responsiveness.
 
