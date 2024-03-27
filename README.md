@@ -1,6 +1,6 @@
 👋🏽 Hello, I’m Angela Ong. 
 -----------------------------------
-I am a bachelor of Computer Science graduate majoring in Cybersecurity at the University of Wollongong (SIM)
+I am a Bachelor of Computer Science graduate majoring in Cybersecurity at the University of Wollongong (SIM)
 
 
 👜 **Work Experience**
