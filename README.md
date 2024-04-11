@@ -10,7 +10,7 @@ I am a Bachelor of Computer Science graduate majoring in Cybersecurity at the Un
 - Developed a standard operating procedure for the organisation’s threat landscape application, which involves understanding the MITRE ATT&CK framework. 
 
 
-📽 **Projects**
+📽 **My Top 3 Projects**
 - **Adventure Architect**  |  Feb 2024
   
   Developed a custom conversational AI system utilizing ChatGPT, engineered to provide tailored recommendations based on user preferences.
